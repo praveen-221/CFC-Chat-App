@@ -1,0 +1,1 @@
+A basic web based chat app which is designed using HTML,CSS and JS in the front-end and firebase for the back-end server and databses. This web application allows to you to message anyone aroud the world with google account.
